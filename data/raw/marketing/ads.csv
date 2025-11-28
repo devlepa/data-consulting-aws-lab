@@ -1,0 +1,701 @@
+ad_id,ad_group_id,creative_type,copy_length,cta,language
+1,196,Video,Short,Buy Now,ES
+2,86,Carousel,Short,Download,ES
+3,66,Video,Medium,Buy Now,EN
+4,10,Video,Short,Download,ES
+5,5,Carousel,Long,Learn More,PT
+6,123,Carousel,Medium,Learn More,PT
+7,74,Carousel,Short,Sign Up,ES
+8,97,Image,Medium,Download,ES
+9,118,Video,Medium,Download,ES
+10,38,Image,Medium,Download,ES
+11,141,Image,Short,Sign Up,EN
+12,159,Carousel,Long,Sign Up,ES
+13,47,Image,Long,Learn More,EN
+14,109,Carousel,Short,Buy Now,PT
+15,180,Video,Medium,Download,ES
+16,184,Carousel,Short,Download,EN
+17,15,Image,Short,Buy Now,ES
+18,157,Image,Short,Download,PT
+19,136,Carousel,Medium,Sign Up,PT
+20,5,Carousel,Short,Sign Up,PT
+21,157,Image,Medium,Download,ES
+22,47,Video,Short,Sign Up,ES
+23,68,Video,Long,Sign Up,EN
+24,76,Carousel,Short,Download,PT
+25,173,Video,Short,Learn More,ES
+26,130,Image,Long,Buy Now,PT
+27,155,Carousel,Medium,Sign Up,PT
+28,95,Image,Medium,Learn More,EN
+29,115,Image,Short,Sign Up,EN
+30,164,Video,Long,Sign Up,EN
+31,36,Carousel,Medium,Buy Now,EN
+32,26,Carousel,Short,Sign Up,PT
+33,43,Video,Long,Buy Now,EN
+34,27,Image,Medium,Buy Now,EN
+35,69,Image,Medium,Buy Now,EN
+36,148,Image,Long,Learn More,EN
+37,11,Image,Long,Download,PT
+38,74,Carousel,Long,Learn More,EN
+39,104,Carousel,Long,Download,PT
+40,38,Video,Short,Download,ES
+41,134,Video,Long,Buy Now,PT
+42,200,Carousel,Medium,Sign Up,PT
+43,23,Carousel,Medium,Buy Now,EN
+44,47,Image,Short,Sign Up,ES
+45,90,Image,Medium,Download,ES
+46,46,Video,Medium,Buy Now,ES
+47,107,Carousel,Long,Sign Up,ES
+48,140,Video,Medium,Learn More,PT
+49,141,Carousel,Short,Sign Up,ES
+50,104,Image,Long,Buy Now,PT
+51,190,Video,Long,Learn More,PT
+52,111,Video,Short,Sign Up,PT
+53,104,Carousel,Long,Sign Up,ES
+54,60,Image,Long,Sign Up,EN
+55,171,Video,Short,Sign Up,EN
+56,100,Image,Long,Sign Up,ES
+57,68,Video,Short,Learn More,EN
+58,133,Image,Short,Download,EN
+59,120,Carousel,Medium,Learn More,PT
+60,37,Video,Medium,Learn More,PT
+61,72,Video,Long,Learn More,ES
+62,127,Image,Long,Download,ES
+63,106,Image,Short,Buy Now,EN
+64,92,Video,Long,Download,PT
+65,31,Carousel,Short,Learn More,ES
+66,122,Image,Short,Sign Up,ES
+67,137,Image,Long,Sign Up,ES
+68,51,Image,Short,Learn More,ES
+69,29,Video,Medium,Sign Up,ES
+70,40,Video,Long,Learn More,ES
+71,41,Video,Medium,Sign Up,EN
+72,11,Video,Long,Download,PT
+73,151,Carousel,Short,Buy Now,PT
+74,1,Carousel,Long,Buy Now,ES
+75,46,Video,Medium,Download,PT
+76,101,Carousel,Short,Download,PT
+77,149,Image,Long,Learn More,PT
+78,90,Image,Long,Learn More,ES
+79,110,Image,Long,Learn More,ES
+80,164,Video,Medium,Sign Up,PT
+81,182,Image,Medium,Learn More,PT
+82,57,Carousel,Long,Download,ES
+83,1,Video,Short,Buy Now,EN
+84,63,Carousel,Short,Sign Up,PT
+85,182,Image,Medium,Learn More,EN
+86,55,Image,Short,Sign Up,PT
+87,115,Image,Medium,Sign Up,EN
+88,168,Video,Long,Learn More,EN
+89,143,Carousel,Medium,Sign Up,EN
+90,149,Video,Medium,Buy Now,ES
+91,175,Video,Long,Download,EN
+92,53,Image,Short,Download,EN
+93,137,Video,Medium,Buy Now,EN
+94,180,Video,Medium,Sign Up,PT
+95,57,Image,Long,Learn More,EN
+96,117,Video,Short,Sign Up,PT
+97,154,Image,Medium,Buy Now,EN
+98,169,Image,Long,Sign Up,EN
+99,35,Image,Medium,Download,ES
+100,63,Image,Long,Sign Up,PT
+101,25,Video,Short,Buy Now,EN
+102,90,Image,Short,Download,PT
+103,75,Image,Short,Sign Up,PT
+104,38,Video,Short,Sign Up,ES
+105,130,Video,Medium,Download,ES
+106,135,Carousel,Medium,Learn More,ES
+107,162,Video,Short,Download,ES
+108,91,Video,Short,Learn More,ES
+109,17,Carousel,Short,Buy Now,ES
+110,128,Video,Medium,Buy Now,ES
+111,171,Video,Short,Download,ES
+112,187,Video,Short,Download,EN
+113,108,Video,Short,Buy Now,PT
+114,179,Carousel,Long,Learn More,ES
+115,182,Video,Short,Buy Now,ES
+116,152,Video,Long,Download,PT
+117,25,Carousel,Long,Buy Now,EN
+118,199,Image,Short,Download,PT
+119,180,Carousel,Long,Download,PT
+120,198,Image,Short,Buy Now,ES
+121,88,Carousel,Medium,Learn More,PT
+122,161,Carousel,Medium,Sign Up,PT
+123,177,Video,Medium,Buy Now,ES
+124,29,Image,Medium,Sign Up,ES
+125,63,Video,Long,Buy Now,ES
+126,150,Image,Short,Sign Up,ES
+127,154,Carousel,Short,Learn More,PT
+128,156,Carousel,Short,Learn More,PT
+129,114,Image,Medium,Buy Now,EN
+130,49,Video,Medium,Download,EN
+131,199,Video,Short,Sign Up,PT
+132,81,Video,Medium,Download,EN
+133,84,Video,Short,Download,PT
+134,105,Carousel,Short,Download,EN
+135,177,Carousel,Short,Learn More,ES
+136,148,Carousel,Short,Buy Now,EN
+137,118,Carousel,Short,Buy Now,ES
+138,86,Carousel,Short,Learn More,ES
+139,63,Video,Short,Learn More,ES
+140,189,Video,Medium,Buy Now,ES
+141,104,Video,Short,Download,EN
+142,49,Video,Short,Sign Up,PT
+143,71,Carousel,Medium,Sign Up,ES
+144,1,Carousel,Medium,Sign Up,EN
+145,141,Carousel,Medium,Download,ES
+146,179,Image,Short,Buy Now,EN
+147,123,Video,Long,Learn More,EN
+148,184,Video,Long,Buy Now,EN
+149,62,Carousel,Medium,Download,PT
+150,32,Video,Long,Learn More,EN
+151,158,Video,Medium,Download,EN
+152,29,Carousel,Short,Sign Up,PT
+153,49,Image,Long,Sign Up,PT
+154,173,Image,Short,Download,EN
+155,30,Image,Long,Learn More,PT
+156,144,Carousel,Short,Learn More,ES
+157,168,Video,Long,Buy Now,ES
+158,19,Carousel,Short,Sign Up,PT
+159,18,Carousel,Short,Buy Now,PT
+160,1,Video,Long,Buy Now,EN
+161,78,Image,Short,Download,PT
+162,115,Image,Short,Download,EN
+163,175,Carousel,Short,Buy Now,ES
+164,194,Image,Long,Sign Up,PT
+165,113,Carousel,Long,Download,EN
+166,114,Carousel,Short,Buy Now,EN
+167,166,Video,Short,Buy Now,ES
+168,179,Video,Long,Buy Now,PT
+169,63,Video,Long,Buy Now,ES
+170,132,Carousel,Short,Buy Now,EN
+171,129,Video,Short,Buy Now,EN
+172,8,Image,Short,Download,PT
+173,157,Image,Medium,Sign Up,EN
+174,55,Carousel,Long,Buy Now,PT
+175,103,Carousel,Medium,Learn More,ES
+176,131,Video,Long,Download,PT
+177,32,Carousel,Long,Download,PT
+178,10,Carousel,Long,Buy Now,EN
+179,110,Image,Long,Download,EN
+180,162,Image,Long,Buy Now,PT
+181,124,Video,Long,Sign Up,EN
+182,87,Carousel,Long,Sign Up,EN
+183,55,Carousel,Medium,Download,EN
+184,32,Image,Short,Download,PT
+185,178,Carousel,Short,Learn More,EN
+186,135,Image,Medium,Download,PT
+187,93,Video,Medium,Learn More,EN
+188,8,Image,Medium,Sign Up,ES
+189,65,Carousel,Medium,Sign Up,EN
+190,57,Video,Long,Buy Now,EN
+191,67,Image,Short,Sign Up,PT
+192,187,Image,Long,Learn More,PT
+193,72,Video,Short,Download,EN
+194,54,Video,Short,Buy Now,ES
+195,67,Image,Medium,Learn More,EN
+196,51,Carousel,Long,Download,EN
+197,97,Image,Medium,Buy Now,ES
+198,92,Video,Long,Sign Up,PT
+199,8,Image,Short,Learn More,EN
+200,162,Video,Medium,Download,PT
+201,35,Video,Medium,Buy Now,PT
+202,96,Carousel,Short,Buy Now,ES
+203,88,Video,Short,Sign Up,ES
+204,78,Video,Short,Download,PT
+205,32,Carousel,Medium,Sign Up,EN
+206,120,Video,Long,Sign Up,PT
+207,46,Carousel,Medium,Download,EN
+208,144,Carousel,Long,Download,EN
+209,196,Video,Medium,Download,ES
+210,165,Video,Medium,Learn More,EN
+211,182,Image,Short,Download,EN
+212,142,Carousel,Long,Buy Now,PT
+213,55,Image,Medium,Sign Up,ES
+214,176,Video,Medium,Learn More,EN
+215,7,Image,Short,Download,EN
+216,74,Carousel,Short,Learn More,ES
+217,7,Image,Long,Download,PT
+218,161,Carousel,Medium,Learn More,ES
+219,151,Video,Long,Sign Up,ES
+220,85,Video,Medium,Sign Up,EN
+221,147,Carousel,Long,Buy Now,EN
+222,112,Video,Short,Buy Now,PT
+223,125,Video,Medium,Download,EN
+224,147,Video,Long,Sign Up,EN
+225,36,Video,Short,Learn More,ES
+226,29,Carousel,Short,Learn More,EN
+227,188,Image,Long,Learn More,PT
+228,82,Image,Medium,Buy Now,ES
+229,2,Video,Medium,Learn More,PT
+230,129,Image,Short,Buy Now,ES
+231,47,Image,Medium,Buy Now,EN
+232,197,Video,Medium,Download,ES
+233,148,Video,Medium,Learn More,ES
+234,11,Image,Short,Learn More,EN
+235,130,Carousel,Long,Sign Up,EN
+236,195,Video,Medium,Download,PT
+237,119,Carousel,Short,Sign Up,PT
+238,140,Image,Short,Download,EN
+239,20,Video,Long,Learn More,EN
+240,5,Carousel,Medium,Buy Now,EN
+241,37,Video,Medium,Buy Now,ES
+242,166,Image,Long,Buy Now,ES
+243,137,Carousel,Long,Buy Now,ES
+244,53,Image,Short,Buy Now,EN
+245,172,Image,Short,Sign Up,PT
+246,99,Video,Long,Download,EN
+247,86,Carousel,Medium,Learn More,ES
+248,108,Image,Short,Sign Up,ES
+249,24,Image,Short,Download,EN
+250,81,Carousel,Medium,Buy Now,EN
+251,158,Image,Short,Download,ES
+252,120,Image,Medium,Download,ES
+253,59,Carousel,Medium,Buy Now,ES
+254,128,Carousel,Medium,Buy Now,EN
+255,114,Carousel,Long,Buy Now,ES
+256,115,Carousel,Long,Learn More,ES
+257,14,Video,Long,Buy Now,PT
+258,9,Carousel,Medium,Learn More,EN
+259,40,Video,Medium,Buy Now,PT
+260,194,Video,Long,Learn More,PT
+261,25,Video,Short,Download,ES
+262,103,Image,Medium,Sign Up,EN
+263,22,Video,Short,Download,ES
+264,4,Video,Short,Download,EN
+265,154,Image,Medium,Buy Now,PT
+266,186,Image,Medium,Learn More,EN
+267,29,Image,Short,Sign Up,ES
+268,109,Carousel,Short,Buy Now,ES
+269,98,Image,Long,Buy Now,ES
+270,37,Image,Long,Buy Now,EN
+271,75,Video,Medium,Download,PT
+272,70,Image,Long,Learn More,PT
+273,146,Carousel,Long,Learn More,EN
+274,128,Image,Long,Sign Up,ES
+275,85,Carousel,Long,Learn More,PT
+276,42,Image,Short,Learn More,ES
+277,100,Image,Medium,Buy Now,EN
+278,41,Image,Long,Buy Now,ES
+279,166,Image,Short,Download,PT
+280,34,Carousel,Short,Buy Now,PT
+281,17,Carousel,Short,Buy Now,ES
+282,165,Video,Long,Buy Now,EN
+283,153,Carousel,Long,Buy Now,ES
+284,122,Image,Medium,Download,EN
+285,76,Video,Long,Buy Now,ES
+286,87,Video,Long,Sign Up,PT
+287,117,Video,Short,Sign Up,EN
+288,106,Image,Medium,Sign Up,EN
+289,86,Carousel,Long,Sign Up,EN
+290,27,Image,Long,Buy Now,PT
+291,57,Video,Short,Sign Up,ES
+292,31,Image,Short,Buy Now,PT
+293,134,Image,Long,Download,EN
+294,168,Carousel,Medium,Sign Up,ES
+295,98,Carousel,Medium,Learn More,PT
+296,12,Video,Short,Sign Up,EN
+297,53,Image,Short,Sign Up,EN
+298,199,Image,Long,Buy Now,PT
+299,138,Carousel,Short,Sign Up,PT
+300,173,Image,Long,Learn More,PT
+301,145,Image,Medium,Buy Now,EN
+302,154,Image,Medium,Buy Now,PT
+303,190,Carousel,Long,Download,EN
+304,122,Video,Short,Download,PT
+305,46,Video,Medium,Sign Up,EN
+306,64,Image,Short,Download,EN
+307,130,Video,Medium,Download,ES
+308,54,Carousel,Long,Download,PT
+309,107,Carousel,Long,Buy Now,PT
+310,193,Video,Long,Buy Now,EN
+311,51,Video,Medium,Buy Now,EN
+312,181,Image,Short,Download,EN
+313,36,Video,Short,Buy Now,ES
+314,115,Image,Short,Download,ES
+315,26,Image,Medium,Buy Now,EN
+316,29,Carousel,Medium,Buy Now,PT
+317,149,Carousel,Medium,Learn More,PT
+318,11,Carousel,Medium,Sign Up,ES
+319,40,Carousel,Medium,Download,ES
+320,11,Video,Short,Learn More,EN
+321,164,Carousel,Medium,Buy Now,PT
+322,113,Video,Medium,Download,EN
+323,187,Carousel,Short,Buy Now,ES
+324,39,Video,Medium,Sign Up,PT
+325,54,Image,Short,Learn More,PT
+326,98,Video,Short,Sign Up,ES
+327,55,Video,Long,Learn More,EN
+328,111,Carousel,Long,Buy Now,EN
+329,152,Video,Long,Sign Up,PT
+330,150,Image,Long,Sign Up,ES
+331,69,Image,Medium,Buy Now,PT
+332,56,Carousel,Long,Sign Up,ES
+333,33,Image,Short,Download,EN
+334,36,Video,Medium,Learn More,ES
+335,148,Image,Long,Learn More,EN
+336,81,Carousel,Short,Learn More,ES
+337,190,Video,Medium,Download,PT
+338,109,Carousel,Medium,Learn More,EN
+339,154,Video,Long,Buy Now,PT
+340,194,Image,Medium,Sign Up,PT
+341,73,Carousel,Short,Download,EN
+342,40,Carousel,Medium,Learn More,EN
+343,17,Video,Short,Buy Now,PT
+344,129,Carousel,Medium,Sign Up,PT
+345,61,Video,Long,Sign Up,PT
+346,171,Video,Short,Download,PT
+347,104,Video,Medium,Download,EN
+348,42,Video,Medium,Download,EN
+349,25,Image,Medium,Buy Now,PT
+350,39,Video,Short,Buy Now,ES
+351,35,Carousel,Short,Download,ES
+352,131,Image,Short,Learn More,EN
+353,108,Carousel,Long,Sign Up,PT
+354,172,Image,Long,Sign Up,PT
+355,179,Video,Short,Buy Now,EN
+356,102,Image,Medium,Sign Up,ES
+357,98,Image,Long,Learn More,ES
+358,12,Carousel,Short,Sign Up,ES
+359,19,Carousel,Medium,Buy Now,EN
+360,101,Video,Long,Buy Now,ES
+361,44,Image,Medium,Learn More,EN
+362,187,Image,Medium,Learn More,EN
+363,49,Image,Medium,Sign Up,PT
+364,189,Video,Medium,Sign Up,ES
+365,17,Video,Long,Buy Now,EN
+366,74,Video,Long,Learn More,ES
+367,57,Video,Long,Learn More,ES
+368,55,Video,Short,Learn More,PT
+369,47,Carousel,Long,Sign Up,ES
+370,12,Image,Medium,Learn More,PT
+371,62,Image,Long,Buy Now,EN
+372,80,Image,Medium,Buy Now,ES
+373,83,Image,Short,Sign Up,EN
+374,8,Image,Medium,Download,ES
+375,149,Image,Medium,Sign Up,EN
+376,81,Image,Medium,Download,ES
+377,118,Image,Short,Learn More,ES
+378,198,Carousel,Long,Sign Up,ES
+379,200,Image,Long,Buy Now,ES
+380,25,Carousel,Short,Learn More,ES
+381,89,Video,Medium,Buy Now,ES
+382,12,Image,Long,Learn More,ES
+383,143,Video,Short,Sign Up,ES
+384,59,Video,Long,Download,ES
+385,154,Video,Short,Learn More,EN
+386,109,Carousel,Medium,Download,PT
+387,26,Video,Long,Learn More,ES
+388,47,Video,Short,Buy Now,PT
+389,32,Video,Long,Buy Now,ES
+390,10,Image,Long,Learn More,ES
+391,16,Image,Long,Download,EN
+392,199,Carousel,Long,Sign Up,EN
+393,145,Carousel,Short,Sign Up,PT
+394,151,Image,Medium,Buy Now,EN
+395,26,Carousel,Short,Sign Up,EN
+396,86,Image,Short,Buy Now,PT
+397,135,Video,Short,Sign Up,EN
+398,14,Video,Medium,Learn More,ES
+399,79,Carousel,Long,Buy Now,PT
+400,117,Image,Long,Buy Now,PT
+401,7,Image,Long,Learn More,ES
+402,137,Carousel,Medium,Buy Now,EN
+403,115,Image,Long,Sign Up,PT
+404,176,Video,Medium,Sign Up,PT
+405,72,Carousel,Long,Buy Now,ES
+406,59,Carousel,Long,Sign Up,ES
+407,82,Image,Short,Download,EN
+408,116,Carousel,Medium,Buy Now,PT
+409,167,Image,Short,Learn More,EN
+410,146,Image,Short,Download,EN
+411,187,Image,Short,Buy Now,ES
+412,103,Image,Medium,Learn More,PT
+413,17,Image,Medium,Sign Up,PT
+414,14,Carousel,Long,Learn More,PT
+415,159,Video,Short,Download,ES
+416,152,Video,Long,Sign Up,ES
+417,108,Carousel,Short,Buy Now,ES
+418,188,Carousel,Medium,Sign Up,ES
+419,45,Video,Medium,Buy Now,ES
+420,98,Video,Medium,Buy Now,PT
+421,131,Video,Short,Learn More,EN
+422,37,Video,Medium,Learn More,PT
+423,171,Video,Short,Learn More,EN
+424,168,Image,Long,Download,ES
+425,183,Carousel,Short,Download,EN
+426,108,Image,Long,Learn More,PT
+427,39,Video,Short,Download,PT
+428,15,Video,Long,Sign Up,EN
+429,120,Video,Medium,Sign Up,ES
+430,4,Image,Long,Download,ES
+431,93,Image,Medium,Download,PT
+432,153,Video,Medium,Sign Up,EN
+433,141,Image,Long,Buy Now,ES
+434,161,Image,Short,Sign Up,ES
+435,16,Video,Short,Sign Up,PT
+436,170,Image,Short,Download,ES
+437,108,Carousel,Short,Sign Up,EN
+438,126,Carousel,Short,Download,PT
+439,194,Carousel,Medium,Download,PT
+440,55,Carousel,Short,Learn More,EN
+441,170,Video,Medium,Sign Up,PT
+442,34,Video,Medium,Buy Now,ES
+443,158,Video,Medium,Learn More,ES
+444,13,Carousel,Long,Download,EN
+445,141,Carousel,Long,Download,ES
+446,18,Image,Medium,Buy Now,EN
+447,160,Image,Long,Download,EN
+448,96,Carousel,Short,Sign Up,ES
+449,123,Carousel,Short,Learn More,EN
+450,39,Carousel,Medium,Download,ES
+451,46,Carousel,Short,Download,PT
+452,29,Image,Medium,Buy Now,PT
+453,190,Carousel,Medium,Sign Up,EN
+454,62,Image,Short,Download,ES
+455,185,Carousel,Long,Buy Now,ES
+456,16,Carousel,Short,Download,PT
+457,184,Carousel,Short,Buy Now,PT
+458,121,Image,Medium,Buy Now,ES
+459,10,Image,Medium,Sign Up,EN
+460,158,Video,Medium,Download,PT
+461,153,Carousel,Medium,Sign Up,EN
+462,103,Video,Long,Buy Now,EN
+463,84,Video,Long,Learn More,PT
+464,133,Image,Long,Download,EN
+465,65,Image,Medium,Learn More,EN
+466,177,Video,Medium,Download,ES
+467,3,Carousel,Medium,Sign Up,EN
+468,173,Image,Long,Sign Up,ES
+469,142,Carousel,Medium,Sign Up,PT
+470,120,Carousel,Short,Sign Up,PT
+471,158,Video,Short,Sign Up,ES
+472,68,Video,Medium,Learn More,PT
+473,146,Video,Short,Sign Up,EN
+474,190,Video,Short,Buy Now,EN
+475,37,Image,Long,Buy Now,EN
+476,153,Image,Medium,Learn More,PT
+477,176,Video,Medium,Download,EN
+478,193,Image,Long,Buy Now,PT
+479,181,Video,Short,Download,EN
+480,73,Carousel,Short,Learn More,ES
+481,143,Carousel,Medium,Download,PT
+482,49,Carousel,Short,Download,PT
+483,121,Video,Long,Download,EN
+484,88,Carousel,Long,Download,PT
+485,196,Image,Medium,Learn More,PT
+486,140,Carousel,Long,Buy Now,ES
+487,187,Carousel,Long,Sign Up,ES
+488,37,Carousel,Medium,Download,EN
+489,61,Image,Long,Buy Now,ES
+490,171,Video,Long,Buy Now,EN
+491,124,Image,Long,Learn More,EN
+492,198,Video,Short,Buy Now,EN
+493,39,Video,Medium,Learn More,PT
+494,184,Carousel,Medium,Download,ES
+495,63,Video,Medium,Download,EN
+496,46,Image,Short,Sign Up,ES
+497,88,Image,Short,Sign Up,EN
+498,11,Video,Medium,Sign Up,ES
+499,62,Carousel,Short,Buy Now,ES
+500,77,Carousel,Medium,Download,EN
+501,153,Image,Short,Learn More,PT
+502,199,Carousel,Long,Sign Up,ES
+503,52,Video,Long,Learn More,PT
+504,4,Video,Medium,Learn More,PT
+505,59,Image,Short,Sign Up,EN
+506,72,Video,Short,Download,EN
+507,148,Image,Long,Sign Up,EN
+508,93,Video,Long,Learn More,ES
+509,63,Image,Short,Sign Up,EN
+510,54,Carousel,Short,Learn More,EN
+511,117,Video,Short,Learn More,ES
+512,110,Video,Short,Sign Up,ES
+513,74,Image,Short,Buy Now,EN
+514,107,Image,Short,Sign Up,EN
+515,57,Video,Medium,Buy Now,EN
+516,169,Image,Short,Learn More,EN
+517,3,Video,Long,Learn More,PT
+518,120,Carousel,Medium,Buy Now,PT
+519,6,Image,Short,Learn More,EN
+520,5,Video,Long,Buy Now,PT
+521,5,Carousel,Medium,Buy Now,ES
+522,54,Carousel,Long,Learn More,PT
+523,47,Video,Short,Download,PT
+524,177,Image,Short,Buy Now,EN
+525,9,Video,Short,Sign Up,PT
+526,99,Carousel,Short,Sign Up,PT
+527,20,Video,Medium,Learn More,PT
+528,122,Image,Medium,Download,PT
+529,61,Carousel,Long,Learn More,ES
+530,123,Video,Short,Download,EN
+531,163,Image,Long,Buy Now,EN
+532,178,Carousel,Medium,Buy Now,ES
+533,82,Image,Short,Buy Now,PT
+534,62,Carousel,Short,Buy Now,ES
+535,145,Video,Medium,Sign Up,PT
+536,3,Image,Medium,Sign Up,ES
+537,160,Carousel,Medium,Learn More,EN
+538,13,Image,Medium,Download,EN
+539,120,Image,Medium,Buy Now,EN
+540,125,Video,Short,Buy Now,PT
+541,89,Image,Medium,Download,PT
+542,73,Carousel,Short,Download,ES
+543,68,Carousel,Short,Learn More,ES
+544,142,Carousel,Medium,Download,EN
+545,101,Carousel,Medium,Buy Now,PT
+546,98,Video,Short,Buy Now,ES
+547,11,Image,Medium,Buy Now,PT
+548,105,Video,Medium,Buy Now,PT
+549,184,Image,Medium,Buy Now,EN
+550,67,Image,Long,Learn More,EN
+551,123,Image,Short,Buy Now,PT
+552,29,Video,Long,Learn More,PT
+553,137,Image,Medium,Buy Now,PT
+554,195,Video,Long,Sign Up,PT
+555,153,Carousel,Medium,Sign Up,EN
+556,76,Carousel,Long,Sign Up,ES
+557,170,Image,Medium,Sign Up,EN
+558,9,Video,Long,Learn More,ES
+559,40,Carousel,Long,Learn More,PT
+560,25,Video,Long,Download,ES
+561,5,Video,Short,Buy Now,EN
+562,139,Image,Long,Sign Up,EN
+563,187,Carousel,Short,Learn More,PT
+564,124,Image,Medium,Buy Now,EN
+565,38,Image,Long,Buy Now,PT
+566,72,Carousel,Medium,Learn More,EN
+567,133,Carousel,Medium,Sign Up,EN
+568,176,Video,Long,Download,PT
+569,90,Carousel,Short,Buy Now,ES
+570,146,Video,Long,Download,EN
+571,198,Video,Medium,Sign Up,ES
+572,37,Video,Medium,Sign Up,EN
+573,60,Carousel,Long,Download,EN
+574,176,Image,Short,Sign Up,EN
+575,28,Video,Short,Buy Now,EN
+576,197,Image,Medium,Download,ES
+577,81,Image,Medium,Sign Up,ES
+578,114,Carousel,Short,Download,EN
+579,40,Image,Long,Buy Now,EN
+580,45,Image,Medium,Sign Up,ES
+581,62,Carousel,Short,Buy Now,PT
+582,93,Video,Medium,Sign Up,PT
+583,115,Image,Long,Learn More,ES
+584,186,Carousel,Short,Sign Up,EN
+585,67,Image,Medium,Download,EN
+586,56,Image,Long,Sign Up,PT
+587,40,Video,Medium,Buy Now,PT
+588,98,Image,Long,Buy Now,ES
+589,40,Carousel,Long,Sign Up,PT
+590,91,Image,Short,Download,ES
+591,33,Video,Long,Learn More,PT
+592,6,Video,Medium,Download,PT
+593,147,Carousel,Long,Learn More,PT
+594,80,Video,Long,Buy Now,EN
+595,168,Image,Short,Download,EN
+596,92,Video,Long,Learn More,EN
+597,97,Carousel,Long,Sign Up,PT
+598,59,Video,Medium,Buy Now,ES
+599,59,Video,Short,Sign Up,ES
+600,48,Video,Short,Buy Now,ES
+601,169,Carousel,Short,Download,ES
+602,13,Video,Long,Download,EN
+603,107,Video,Short,Buy Now,EN
+604,45,Image,Long,Buy Now,PT
+605,89,Carousel,Long,Buy Now,PT
+606,181,Video,Medium,Download,ES
+607,170,Carousel,Medium,Learn More,EN
+608,100,Video,Medium,Sign Up,ES
+609,191,Video,Medium,Sign Up,PT
+610,155,Video,Medium,Download,PT
+611,166,Image,Long,Sign Up,ES
+612,188,Image,Long,Buy Now,PT
+613,7,Image,Short,Learn More,ES
+614,133,Carousel,Long,Sign Up,EN
+615,45,Carousel,Long,Learn More,ES
+616,58,Image,Medium,Buy Now,EN
+617,31,Carousel,Long,Sign Up,EN
+618,23,Video,Medium,Download,PT
+619,170,Video,Short,Learn More,PT
+620,138,Video,Short,Buy Now,PT
+621,160,Image,Long,Learn More,ES
+622,107,Carousel,Short,Sign Up,ES
+623,181,Image,Long,Sign Up,PT
+624,158,Carousel,Short,Download,ES
+625,39,Video,Medium,Buy Now,PT
+626,159,Image,Medium,Buy Now,ES
+627,82,Carousel,Medium,Download,EN
+628,100,Carousel,Medium,Download,EN
+629,2,Video,Long,Buy Now,PT
+630,77,Image,Short,Learn More,ES
+631,12,Image,Long,Learn More,ES
+632,39,Image,Medium,Download,EN
+633,194,Video,Long,Learn More,EN
+634,13,Image,Short,Buy Now,PT
+635,46,Video,Long,Sign Up,EN
+636,155,Video,Short,Sign Up,PT
+637,113,Video,Long,Learn More,EN
+638,17,Carousel,Short,Download,EN
+639,104,Image,Short,Download,ES
+640,98,Image,Medium,Download,EN
+641,188,Video,Short,Download,EN
+642,192,Video,Medium,Download,PT
+643,88,Image,Medium,Learn More,EN
+644,109,Video,Medium,Sign Up,PT
+645,163,Image,Long,Sign Up,EN
+646,70,Carousel,Long,Learn More,EN
+647,158,Video,Long,Download,PT
+648,199,Image,Long,Learn More,ES
+649,74,Video,Short,Sign Up,PT
+650,63,Image,Short,Buy Now,PT
+651,156,Image,Long,Learn More,PT
+652,60,Video,Short,Download,ES
+653,79,Carousel,Short,Sign Up,EN
+654,37,Image,Medium,Sign Up,PT
+655,22,Image,Medium,Sign Up,PT
+656,196,Image,Medium,Sign Up,ES
+657,148,Carousel,Medium,Download,PT
+658,96,Carousel,Short,Buy Now,EN
+659,68,Video,Long,Sign Up,ES
+660,192,Carousel,Short,Learn More,EN
+661,17,Video,Short,Buy Now,EN
+662,12,Video,Short,Sign Up,ES
+663,150,Carousel,Medium,Buy Now,PT
+664,145,Video,Medium,Learn More,EN
+665,138,Carousel,Medium,Sign Up,EN
+666,118,Video,Long,Learn More,EN
+667,193,Carousel,Short,Download,EN
+668,22,Carousel,Long,Sign Up,ES
+669,120,Video,Medium,Sign Up,ES
+670,50,Image,Long,Sign Up,EN
+671,14,Video,Short,Sign Up,PT
+672,192,Carousel,Short,Download,EN
+673,175,Image,Medium,Sign Up,PT
+674,29,Video,Medium,Buy Now,EN
+675,164,Video,Long,Sign Up,PT
+676,180,Video,Medium,Download,EN
+677,125,Image,Medium,Sign Up,PT
+678,7,Carousel,Short,Buy Now,EN
+679,29,Video,Medium,Download,EN
+680,139,Video,Medium,Download,PT
+681,33,Video,Short,Buy Now,ES
+682,134,Video,Short,Buy Now,PT
+683,111,Video,Long,Buy Now,ES
+684,79,Carousel,Medium,Buy Now,EN
+685,160,Carousel,Short,Buy Now,PT
+686,179,Video,Long,Download,PT
+687,58,Image,Long,Download,PT
+688,26,Carousel,Medium,Sign Up,ES
+689,174,Image,Medium,Sign Up,ES
+690,29,Carousel,Long,Learn More,EN
+691,4,Video,Short,Sign Up,ES
+692,99,Carousel,Long,Sign Up,ES
+693,141,Video,Medium,Buy Now,EN
+694,39,Carousel,Short,Buy Now,PT
+695,15,Video,Short,Sign Up,PT
+696,119,Video,Long,Learn More,EN
+697,29,Video,Medium,Buy Now,PT
+698,157,Video,Long,Sign Up,ES
+699,75,Image,Long,Sign Up,EN
+700,116,Video,Long,Download,EN
