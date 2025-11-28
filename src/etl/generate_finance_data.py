@@ -44,7 +44,7 @@ num_orders = 2000
 orders = pd.DataFrame({
     "order_id": np.arange(1, num_orders + 1),
     "customer_id": np.random.randint(1, 1000, num_orders),
-    "order_date": pd.date_range("2023-01-01", periods=num_orders, freq="H"),
+    "order_date": pd.date_range("2023-01-01", periods=num_orders, freq="h"),
     "order_amount": np.round(np.random.uniform(20, 1000, num_orders), 2),
     "status": np.random.choice(["completed", "pending", "canceled"], num_orders)
 })
@@ -87,7 +87,7 @@ num_expenses = 1000
 expenses = pd.DataFrame({
     "expense_id": np.arange(1, num_expenses + 1),
     "vendor_id": np.random.choice(vendor_ids, num_expenses),
-    "expense_date": pd.date_range("2023-01-01", periods=num_expenses, freq="12H"),
+    "expense_date": pd.date_range("2023-01-01", periods=num_expenses, freq="12h"),
     "amount": np.round(np.random.uniform(50, 8000, num_expenses), 2),
     "cost_center": np.random.choice(["Marketing", "Operations", "Tech", "HR"], num_expenses),
     "account_id": 5000  # Operating Expenses
@@ -136,15 +136,15 @@ gl_transactions = pd.DataFrame(gl)
 # SAVE ALL DATA
 # ---------------------------
 import os
+path = "../../data/raw/finance/"
+os.makedirs(path, exist_ok=True)
 
-os.makedirs("data/raw/finance", exist_ok=True)
-
-coa.to_csv("data/raw/finance/chart_of_accounts.csv", index=False)
-vendors.to_csv("data/raw/finance/vendors.csv", index=False)
-orders.to_csv("data/raw/finance/orders.csv", index=False)
-invoices.to_csv("data/raw/finance/invoices.csv", index=False)
-payments.to_csv("data/raw/finance/payments.csv", index=False)
-expenses.to_csv("data/raw/finance/expenses.csv", index=False)
-gl_transactions.to_csv("data/raw/finance/gl_transactions.csv", index=False)
+coa.to_csv(path + "chart_of_accounts.csv", index=False)
+vendors.to_csv(path + "vendors.csv", index=False)
+orders.to_csv(path + "orders.csv", index=False)
+invoices.to_csv(path + "invoices.csv", index=False)
+payments.to_csv(path + "payments.csv", index=False)
+expenses.to_csv(path + "expenses.csv", index=False)
+gl_transactions.to_csv(path + "gl_transactions.csv", index=False)
 
 print("Full finance domain generated successfully.")
